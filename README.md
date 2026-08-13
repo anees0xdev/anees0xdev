@@ -16,7 +16,7 @@ I am a passionate web developer turned security researcher focused on identifyin
 
 ### 🛠️ Tech Stack & Security Toolkit
 
-- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Languages:** Python, JavaScript, HTML5, CSS3, SQL, PHP
 - **Web Security & Pentesting:** OWASP Top 10, Web Application Security, Access Control Testing, Input Validation, API Security
 - **Tools:** Burp Suite, Nmap, Wireshark, Git, Linux / Bash
 
