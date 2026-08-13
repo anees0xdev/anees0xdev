@@ -25,3 +25,4 @@ I am a passionate web developer turned security researcher focused on identifyin
 📫 **Connect with me:**
 - **HackerOne:** https://hackerone.com/anees0x_dev/hacktivity
 - **Email:** aneeshyderr@gmail.com
+- **Twitter/X:** https://x.com/aneesOx_dev
