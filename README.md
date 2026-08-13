@@ -22,12 +22,6 @@ I am a passionate web developer turned security researcher focused on identifyin
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anees0xdev&show_icons=true&theme=radial)
-
----
-
 📫 **Connect with me:**
 - **HackerOne:** https://hackerone.com/anees0x_dev/hacktivity
 - **Email:** aneeshyderr@gmail.com
