@@ -1,4 +1,4 @@
-# Hi there, I'm Anees Hyder (Anis Charolia) 👋
+# Hi there, I'm Anees Hyder Charolia 👋
 
 🎓 **Wordpress Developer & Cybersecurity Researcher** | 🛠️ **Bug Bounty Hunter**
 
