@@ -28,3 +28,4 @@ I am enterprise WordPress developer and security researcher combining frontend e
 - **HackerOne:** https://hackerone.com/anees0x_dev/hacktivity
 - **Email:** aneeshyderr@gmail.com
 - **Twitter/X:** https://x.com/aneesOx_dev
+- **Linkedin:** https://www.linkedin.com/in/anis-charolia/
