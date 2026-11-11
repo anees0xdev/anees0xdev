@@ -2,7 +2,7 @@
 
 🎓 **Wordpress Developer & Cybersecurity Researcher** | 🛠️ **Bug Bounty Hunter**
 
-I am enterprise WordPress developer and security researcher combining frontend engineering expertise with vulnerability discovery and responsible disclosure.
+Enterprise WordPress Developer by day, cybersecurity researcher by night and weekend. I combine deep frontend engineering expertise with independent vulnerability discovery and responsible disclosure.
 
 ---
 
